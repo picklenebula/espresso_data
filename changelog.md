@@ -6,3 +6,4 @@
 2023-11-11 10:34 [structure] - add *column_separate_limit* with formula =LEFT(E2,10) to remove extra string characters and autofill entire sheet. Copy and paste as values later and remove *column_separate*.  
 2023-11-11 10:44 [spelling] - change spelling from "comme" to "comma" in [import_log.md](/import_log.md) main title.
 2023-11-11 10:59 [structure] - delete column *column_separate_limit*.
+2023-11-11 11:33 [structure] - added column *country_origin2*.
