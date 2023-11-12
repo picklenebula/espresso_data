@@ -1,4 +1,4 @@
-# This file will catalogue and list the methodology and process of transforming the data from an unstructed text file into a comme delimited file for upload. 
+# This file will catalogue and list the methodology and process of transforming the data from an unstructed text file into a comma delimited file for upload. 
 
 ### Initial spreadsheet formatting and manual importing of uncleaned data.
 >[!NOTE]
@@ -24,3 +24,7 @@
      - Autofill *device_used and new_basket* for all rows except the first which uses the new basket.
 >[!IMPORTANT]
 >This spreadsheet does not have a primary key as no date/time info or unique identifier is present to differentiate data observations.
+---
+### Cleaning the data !
+1. Prepare the column headers for final version.
+2. 
