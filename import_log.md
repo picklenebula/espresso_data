@@ -27,4 +27,8 @@
 ---
 ### Cleaning the data !
 1. Prepare the column headers for final version.
-2. 
+   - Remove *column_separate* after copy/paste as values in *column_separate_limit*.
+   - Add formula to column *grind_setting* to split text. *=SPLIT(E2," - ")*
+   - Copy/paste as values in columns *grind_setting* and *extraction_time* to preserve values.
+   - Delete column *column_separate_limit*.
+   - 
