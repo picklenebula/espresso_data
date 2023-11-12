@@ -35,3 +35,5 @@
 > I don't know how to effectively state that a coffee is from multiple countries, ask someone smarter than me.
 
 2. Adding countries of origin to column *country_origin*.
+3. Adding new column *country_origin2* for secondary origin countries, tertriery countries not listed.
+4. 
