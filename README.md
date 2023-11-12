@@ -1,2 +1,2 @@
 # espresso_data
-Log of espresso data aggregation and analysis
+Log of espresso data aggregation and analysis.
