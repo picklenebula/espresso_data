@@ -32,7 +32,7 @@
    - Copy/paste as values in columns *grind_setting* and *extraction_time* to preserve values.
    - Delete column *column_separate_limit*.
    - Correcting certain invalid *coffee_name* entries for accuracy.  
-   - Correcting double decimal points in *grind_setting* because it produces null value in tableau.
+   - Correcting double decimal points in *grind_setting* using notepad++ regex because it produces null value in tableau. 
 >[!NOTE]
 > I don't know how to effectively state that a coffee is from multiple countries, ask someone smarter than me.
 
