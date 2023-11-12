@@ -7,3 +7,5 @@
 2023-11-11 10:44 [spelling] - change spelling from "comme" to "comma" in [import_log.md](/import_log.md) main title.
 2023-11-11 10:59 [structure] - delete column *column_separate_limit*.
 2023-11-11 11:33 [structure] - added column *country_origin2*.
+2023-11-12 10:10 [structure] - replace all decimal characters in *grind_setting* in *EspressoData20231111 - CoffeeData.csv* with no character.
+2023-11-12 10:11 [version] - replace *EspressoData20231111 - CoffeeData.csv* with newly exported *EspressoData20231111* - CoffeeData.csv from google sheets.
