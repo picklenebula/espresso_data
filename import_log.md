@@ -22,3 +22,5 @@
      - Copy and paste text lines from [coffee.txt](https://github.com/picklenebula/espresso_data/blob/main/coffee.txt) for that coffee flavour into *column_separate*.
      - Autofill *coffee_company, coffee_name and simone_rating* to match the number of rows filled by *column_separate*.
      - Autofill *device_used and new_basket* for all rows except the first which uses the new basket.
+>[!IMPORTANT]
+>This spreadsheet does not have a primary key as no date/time info or unique identifier is present to differentiate data observations.
