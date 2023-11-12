@@ -2,7 +2,7 @@
 
 ### Initial spreadsheet formatting and manual importing of uncleaned data.
 >[!NOTE]
->The unstructered data set can be found here: [LINK](https://github.com/picklenebula/espresso_data/blob/main/coffee.txt).
+>The unstructered data set can be found here: [coffee.txt](https://github.com/picklenebula/espresso_data/blob/main/coffee.txt).
 
 1. Setup of initial column headers.
    ```
@@ -16,4 +16,9 @@
    - device_used      (espresso machine used to extract espresso.)
    - new_basket       (was the espresso made with the old basket or new basket, boolean, 1 for new, 0 for old.)
    ```
-test
+2. Importing data manually because I don't know how to use regular expression whoops.
+     - Fill *coffee_company, coffee_name and simone_rating* with values from [coffee.txt](https://github.com/picklenebula/espresso_data/blob/main/coffee.txt).
+     - Leave *country_origin, grind_setting, extraction_time, device_used and new_basket* blank.
+     - Copy and paste text lines from [coffee.txt](https://github.com/picklenebula/espresso_data/blob/main/coffee.txt) for that coffee flavour into *column_separate*.
+     - Autofill *coffee_company, coffee_name and simone_rating* to match the number of rows filled by *column_separate*.
+     - Autofill *device_used and new_basket* for all rows except the first which uses the new basket.
