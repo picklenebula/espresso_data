@@ -33,3 +33,5 @@
    - Delete column *column_separate_limit*.  
 >[!NOTE]
 > I don't know how to effectively state that a coffee is from multiple countries, ask someone smarter than me.
+
+2. Adding countries of origin to column *country_origin*.
